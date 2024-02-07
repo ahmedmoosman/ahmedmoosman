@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi 👋,
-  </br>I am Ahmed!
+  </br>I am Ahmed! 
 </h1>
 <p align="center">
   <a href="https://ahmedmoosman.github.io/"><img alt="Personal Website of Ahmed Osman" src="https://shields.io/badge/Personal-Website-333" /></a>
   </br>
-<a href="[https://fosstodon.org/](https://econtwitter.net/)" rel="me"><img alt="Mastodon account of Ahmed Osman" src="https://shields.io/badge/Mastodon-Ahmed Osman-333?logo=mastodon&logoColor=white" /></a>
+<a href="https://econtwitter.net/@ahmed6657"><img alt="Mastodon account of Ahmed Osman" src="https://shields.io/badge/Mastodon-Ahmed Osman-333?logo=mastodon&logoColor=white" /></a>
   <a href="https://twitter.com/ahmedmo445"><img alt="X account of Ahmed Osman" src="https://shields.io/badge/X-Ahmed Osman-333?logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-osman-6371aa12a/"><img alt="LinkedIn account of Ahmed Osman" src="https://shields.io/badge/LinkedIn-Ahmed Osman-333?logo=linkedin&logoColor=white" /></a>
 </p>
