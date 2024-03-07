@@ -16,5 +16,5 @@ I am a Doctoral researcher at <a href="https://www.unitn.it/en"> University of T
 Drop me a line to say hello  👋! Or Iskawaran or Waryaa 😄
 </p>
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmoosman)](https://github.com/anuraghazra/github-readme-stats)
+
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmoosman)
