@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋,
-  </br>I am Ahmed! 
+  </br>I am Ahmed!
 </h1>
 <p align="center">
   <a href="https://ahmedmoosman.github.io/"><img alt="Personal Website of Ahmed Osman" src="https://shields.io/badge/Personal-Website-333" /></a>
