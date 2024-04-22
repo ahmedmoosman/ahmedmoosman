@@ -1,7 +1,7 @@
-<h1 align="center">
-  Hi 👋,
-  </br>I am Ahmed!
-</h1>
+<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Ahmed Osman </h1>
 <p align="center">
   <a href="https://ahmedmoosman.github.io/"><img alt="Personal Website of Ahmed Osman" src="https://shields.io/badge/Personal-Website-333" /></a>
   </br>
