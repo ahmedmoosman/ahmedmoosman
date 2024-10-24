@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ahmed-osman-6371aa12a/"><img alt="LinkedIn account of Ahmed Osman" src="https://shields.io/badge/LinkedIn-Ahmed Osman-333?logo=linkedin&logoColor=white" /></a>
 </p>
 <p align="center">
-I am a Research Assistant at <a href="https://www.unitn.it/en"> University of Trento </a> and Industrial research consultant for <b><a href="https://www.unido.org">United Nations Industrial Development Organization UNIDO</a></b>. I have a strong interest in <b>Geospatial Analysis</b> to evaluate <a href="https://sdgs.un.org/goals"><b>Sustainable Development Goals (SDG)</b></a> targets. 
+I am a Research Assistant at the <a href="https://www.unitn.it/en"> University of Trento </a> and Industrial research consultant for <b><a href="https://www.unido.org">United Nations Industrial Development Organization UNIDO</a></b>. I have a strong interest in <b>Geospatial Analysis</b> to evaluate <a href="https://sdgs.un.org/goals"><b>Sustainable Development Goals (SDG)</b></a> targets. 
 </p>
 <p align="center">
 Drop me a line to say hello  👋! Or Iskawaran Waryaa! 😄
