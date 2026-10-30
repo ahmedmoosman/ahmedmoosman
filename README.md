@@ -1,7 +1,9 @@
-<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Ahmed Osman </h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=5002&pause=1000&color=8F4E29&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+It's+Ahmed)](https://git.io/typing-svg)
+
+</div>
+
 <p align="center">
   <a href="https://ahmedmoosman.github.io/"><img alt="Personal Website of Ahmed Osman" src="https://shields.io/badge/Personal-Website-333" /></a>
  <a href="https://econtwitter.net/@ahmed6657"><img alt="Mastodon account of Ahmed Osman" src="https://shields.io/badge/Mastodon-Ahmed Osman-333?logo=mastodon&logoColor=white" /></a> 
