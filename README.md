@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=5002&pause=1000&color=8F4E29&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+It's+Ahmed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=24&duration=3000&pause=900&color=8F4E29&center=true&vCenter=true&repeat=true&width=620&lines=Hello!+It's+Ahmed+%F0%9F%91%8B;I+turn+satellite+pixels+into+policy+evidence+%F0%9F%9B%B0%EF%B8%8F;Measuring+the+SDGs+from+space+%F0%9F%8C%8D;Doctoral+Researcher+%40+University+of+Trento;Land+Research+Consultant+%40+BRIDE-RS)](https://git.io/typing-svg) 
 
 </div>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ahmed-osman-6371aa12a/"><img alt="LinkedIn account of Ahmed Osman" src="https://shields.io/badge/LinkedIn-Ahmed Osman-333?logo=linkedin&logoColor=white" /></a>
 </p>
 <p align="center">
-I am a Research Assistant at the <a href="https://www.unitn.it/en"> University of Trento </a> and Industrial Research Consultant for <b><a href="https://www.unido.org">United Nations Industrial Development Organization UNIDO</a></b>. I have a strong interest in <b>Geospatial Analysis</b> to evaluate <a href="https://sdgs.un.org/goals"><b>Sustainable Development Goals (SDG)</b></a> targets. 
+I am a PhD candidate working with Earth Observation (EO) data to evaluate Sustainable Development Goals targets.
 </p>
 <p align="center">
 Drop me a line to say hello  👋! Or Waryaa! 😄
